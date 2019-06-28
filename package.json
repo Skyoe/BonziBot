@@ -1,0 +1,29 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^0.29.1",
+    "ascii-art": "^1.5.1",
+    "weather-js": "^2.0.0",
+    "axios": "^0.18.0",
+    "idiotic-api": "^0.2.11",
+    "google": "^2.1.0",
+    "fs-nextra": "^0.4.5",
+    "canvas-constructor": "^3.0.1",
+    "custom-translate": "^2.2.8"
+    
+  }
+}

@@ -43,7 +43,7 @@ Welcome to the Bonzi Bot! This bot is for the Discord Hack Week 2019, specially 
 
 •S-weather
 
-•Image Manipulation Commands
+•Image Manipulation Commands:
 S-beautiful, S-blood, S-bob, S-brazzers, S-gay, S-halloween, S-blur, S-captcha, S-invert, S-pixel, S-pokemon, S-posterize, S-sepia, S-treasure, S-jail, S-triggered, S-mission, S-checkout,S-shit,S-tattoo, S-wasted, S-hitler, S-challenger, S-hamood, S-superhot
 
 For more information, use S-help

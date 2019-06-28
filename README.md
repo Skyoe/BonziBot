@@ -5,8 +5,11 @@ Welcome to the Bonzi Bot! This bot is for the Discord Hack Week 2019, specially 
 
 # Developers: 
 •Anti#9717
+
 •a25#5333
+
 •El Gengar#1344
+
 •Chijiro#3562
 
 

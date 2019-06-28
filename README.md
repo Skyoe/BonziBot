@@ -16,19 +16,33 @@ Welcome to the Bonzi Bot! This bot is for the Discord Hack Week 2019, specially 
 # Commands
 
 •S-user
+
 •S-server
+
 •S-emojify
+
 •S-say
+
 •S-avatar
+
 •S-flip
+
 •S-img
+
 •S-8ball
+
 •S-ship
+
 •S-reddit
+
 •S-ascii
+
 •S-howgay
+
 •S-dice
+
 •S-weather
+
 •Image Manipulation Commands
 S-beautiful, S-blood, S-bob, S-brazzers, S-gay, S-halloween, S-blur, S-captcha, S-invert, S-pixel, S-pokemon, S-posterize, S-sepia, S-treasure, S-jail, S-triggered, S-mission, S-checkout,S-shit,S-tattoo, S-wasted, S-hitler, S-challenger, S-hamood, S-superhot
 
@@ -37,9 +51,13 @@ For more information, use S-help
 # How to use
 
 •Download the repository
+
 •Add your bot's token in **config.json** and **bot.js**
+
 •Install Node.js
+
 •Start the bot with Node.js
+
 Done!
 
 # Invitation

@@ -1,6 +1,6 @@
 # BonziBot
 
-Welcome to the Bonzi Bot! This bot is for the Discord Hack Week 2019, specially in the **Entertainment Category**. It's inspired by Bonzi Buddy, a famous Spyware.
+Welcome to the Bonzi Bot! This bot is for the Discord Hack Week 2019, specially for the **Entertainment Category**. It's inspired by Bonzi Buddy, a famous Spyware.
 
 
 # Developers: 

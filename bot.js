@@ -218,6 +218,10 @@ message.author.send({embed: {
         value: "I can say you the updated weather of all the places on the world."
       },
       {
+        name: "S-reminder",
+        value: "I will remember to you anything you want after the time you specify for it."
+      },
+      {
          name: "Image Manipulation Commands",
          value: "S-beautiful, S-blood, S-bob, S-brazzers, S-gay, S-halloween, S-blur, S-captcha, S-invert, S-pixel, S-pokemon, S-posterize, S-sepia, S-treasure, S-jail, S-triggered, S-mission, S-checkout,S-shit,S-tattoo, S-wasted, S-hitler, S-challenger, S-hamood, S-superhot"
       }

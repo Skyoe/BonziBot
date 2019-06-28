@@ -431,7 +431,7 @@ client.on('guildMemberAdd', member => {
         .setColor('RANDOM')
         .setThumbnail(memberavatar)
         .addField(':bust_in_silhouette: | Name : ', `${member}`)
-        .addField('**:microphone2: | Hello!', `Welcome to the server!**, ${member}`)
+        .addField(':microphone2: | Hello!', `**Welcome to the server!**, ${member}`)
         .addField(':id: | User :', "**[" + `${member.id}` + "]**")
         .addField(':family_mwgb: | You are the member n°', `${member.guild.memberCount}`)
         .addField("Name", `<@` + `${member.id}` + `>`, true)

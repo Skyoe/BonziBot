@@ -206,6 +206,14 @@ message.author.send({embed: {
         value: "Random numbers from 1 to 100"
       },
       {
+        name: "S-play",
+        value: "A simple command to play music."
+      },
+      {
+        name: "S-leave",
+        value: "A simple command to leave the voice channel after the music."
+      },
+      {
         name: "S-weather [Country/City/Etc.]",
         value: "I can say you the updated weather of all the places on the world."
       },
